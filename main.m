@@ -9,7 +9,8 @@ bfs_download(); % requires wget
 
 %% Extract ground truth road layout attributes for Google Street View panoramas based on corresponding OpenStreetMap info
 % This section assumes "map.osm" was previously downloaded from osm.org and the GSV
-% panoramas/xml are saved in "panos" directory.
+% panoramas/xml are saved in "panos" directory. Small data subset is included
+% with repository.
 
 % parse intersection and street info from OSM map
 system('python dependencies/map_parsing/parse_script.py');
