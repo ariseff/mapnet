@@ -7,14 +7,14 @@ The ground truth attribute labels for model training are automatically extracted
 
 Project page: http://www.cs.princeton.edu/~aseff/mapnet
 
-PDF: http://arxiv.org/...
+PDF: https://arxiv.org/abs/1611.08583
 
 ### Citation 
 ```
 @article{seffxiao2016,
   title={Learning from Maps: Visual Common Sense for Autonomous Driving},
   author={Seff, Ari and Xiao, Jianxiong},
-  journal={arXiv preprint ...},
+  journal={arXiv preprint arxiv:1611.08583},
   year={2016}
 }
 ```
