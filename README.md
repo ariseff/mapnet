@@ -7,7 +7,7 @@ The ground truth attribute labels for model training are automatically extracted
 
 Project page: http://www.cs.princeton.edu/~aseff/mapnet
 
-PDF: https://arxiv.org/pdf/1611.08583v1.pdf
+PDF: https://arxiv.org/pdf/1611.08583.pdf
 
 ### Citation 
 ```
